@@ -1,0 +1,22 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "As a busy politician I can see all of today's headlines in one place So I know what the big stories of the day are",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DagmaraSz/News-app.git"
+  },
+  "author": "Dagmara Szkurlat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DagmaraSz/News-app/issues"
+  },
+  "homepage": "https://github.com/DagmaraSz/News-app#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
