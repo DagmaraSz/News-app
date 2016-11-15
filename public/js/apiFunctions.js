@@ -16,6 +16,7 @@ Api.prototype = {
     xhr.send();
   },
   getHeadline: function(){
+    console.log(this.article)
     return this.article.webTitle
   },
 
